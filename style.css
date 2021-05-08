@@ -2,6 +2,11 @@ p {
     color:blue;
 }
 
+<<<<<<< HEAD
 th {
     color: red;
+=======
+h2 { 
+    font-size: 30px;
+>>>>>>> 253c5a7... first commit
 }
